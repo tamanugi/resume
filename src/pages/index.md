@@ -3,6 +3,8 @@ layout: "../layouts/Layout.astro"
 title: "職務経歴書"
 ---
 
+<section>
+
 # 職務経歴書
 
 ## 基本情報
@@ -29,7 +31,11 @@ title: "職務経歴書"
 
 Java / Elixir / Python / TypeScript / JavaScript / PlayFramework / SpringBoot / Phoenix / FastAPI / React / Angular / Sveltekit / Astro / AWS / Docker / Kubernetes
 
+</section>
+
 ---
+
+<section>
 
 ## 職歴
 
@@ -96,7 +102,11 @@ Java / SpringBoot / Elixir / Phoenix / TypeScript / Angular / Dart / Flutter / D
 - 携帯キャリアの電子マネー新機能開発(Java)
 - 電気機器メーカー社内向け PIM システムの開発(Java)
 
+</section>
+
 ---
+
+<section>
 
 ## 業務外活動
 
@@ -126,3 +136,5 @@ Java / SpringBoot / Elixir / Phoenix / TypeScript / Angular / Dart / Flutter / D
 ## 希望条件
 
 - 地方在住なのでフルリモートワークでの勤務を希望します
+
+</section>
